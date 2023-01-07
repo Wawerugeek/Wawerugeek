@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wawerugeek
-- 👀 I’m interested in Python and django
-- 🌱 I’m currently learning python programming laguage
-- 💞️ I’m looking to collaborate on stakeholders and people to help me grow my programming career 
+- 👀 I’m a full stack software developer
+- 🌱 I’m currently learning Django
+- 💞️ I'm interested in getting better everyday and learning new things
+- I love astrology and getting lost in night sky
 - 📫 How to reach me ...stevemuiruri84@gmail.com #
 
 <!---
