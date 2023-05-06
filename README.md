@@ -1,6 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Wawerugeek</h1>
-<h3 align="center">A passionate full stack software developer.</h3>
+<h1 align="center">Hello 👋, I'm Wawerugeek &#9825;</h1>
+<h3 align="center">A passionate full-stack software developer from Nairobi. </h3>
+<img align="right"  width="400" src="![image](https://user-images.githubusercontent.com/108082247/236620509-82f9b800-3259-4d68-bf71-f1adbcc1b77e.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wawerugeek&label=Profile%20views&color=0e75b6&style=flat" alt="wawerugeek" /> </p>
 
