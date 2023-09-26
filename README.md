@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Wawerugeek &#9825;</h1>
+<h1 align="center">Hello 👋, My name is Stephen Muiruri &#9825;</h1>
 <h3 align="center">A passionate full-stack software developer from Nairobi. </h3>
 <img align="right"  width="400" src="![image](https://user-images.githubusercontent.com/108082247/236620509-82f9b800-3259-4d68-bf71-f1adbcc1b77e.png)
 ">
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 💬 Ask me about **Python, JavaScript, React, Next js, C, Bash, Node js, Django**
+- 💬 Ask me about **Mern and Pern stack.**
 
 - 📫 How to reach me **stevemuiruri84@gmail.com**
 
-- ⚡ Fun fact **I am actually a physicist.**
+- ⚡ my portfolio is  muiruri.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
