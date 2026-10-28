@@ -1,33 +1,100 @@
-<h1 align="center">Hello 👋, My name is Stephen Muiruri &#9825;</h1>
-<h3 align="center">A passionate full-stack software developer from Nairobi. </h3>
-<img align="right"  width="400" src="![image](https://user-images.githubusercontent.com/108082247/236620509-82f9b800-3259-4d68-bf71-f1adbcc1b77e.png)
-">
+<h1 align="center">Hi, I'm Stephen Muiruri 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wawerugeek&label=Profile%20views&color=0e75b6&style=flat" alt="wawerugeek" /> </p>
+<h3 align="center">AI Engineer · Backend Developer · Technical Writer</h3>
 
-<p align="left"> <a href="https://twitter.com/stevemuirurike" target="blank"><img src="https://img.shields.io/twitter/follow/stevemuirurike?logo=twitter&style=for-the-badge" alt="stevemuirurike" /></a> </p>
-
-
-- 🌱 I’m currently learning **Software Engineering at ALX**
-
-- 💬 Ask me about **Mern and Pern stack.**
-
-- 📫 How to reach me **stevemuiruri84@gmail.com**
-
-- ⚡ my portfolio is  muiruri.vercel.app
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stevemuirurike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevemuirurike" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stephen muiruri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen muiruri" height="30" width="40" /></a>
-<a href="https://instagram.com/waweru muiruri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waweru muiruri" height="30" width="40" /></a>
+<p align="center">
+  I build backend systems, explore agentic AI, and develop practical automation solutions.
+  <br />
+  Based in Nairobi, Kenya 🇰🇪
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/wawerugeek">GitHub</a> •
+  <a href="https://www.linkedin.com/in/waweru7">LinkedIn</a> •
+  <a href="https://muiruri.vercel.app">Portfolio</a> •
+  <a href="mailto:stevemuiruri84@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wawerugeek&show_icons=true&locale=en&layout=compact" alt="wawerugeek" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wawerugeek&show_icons=true&locale=en" alt="wawerugeek" /></p>
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wawerugeek&" alt="wawerugeek" /></p>
+I'm a software developer focused on building reliable backend systems and exploring how AI can solve practical engineering and business problems.
+
+My current interests include:
+
+- **Backend engineering:** REST APIs, service architecture, database design, and distributed systems.
+- **Agentic AI:** LLM-powered agents, tool use, orchestration, and evaluation.
+- **AI automation:** Connecting APIs, business applications, and AI models to automate real workflows.
+- **Technical writing:** Breaking down complex engineering concepts into clear, practical explanations.
+
+I learn by building, testing, and documenting working systems—not just by completing tutorials.
+
+### What I'm Working On
+
+- 🧠 Exploring agentic AI with Hugging Face, LLM tools, and agent frameworks.
+- ⚙️ Building backend services with Java, Spring Boot, and PostgreSQL.
+- 🔄 Experimenting with event-driven architectures and asynchronous execution for long-running AI tasks.
+- 🤖 Developing automation workflows that connect AI models, APIs, and business systems.
+- ✍️ Writing technical articles about backend architecture, AI engineering, and software systems.
+
+### Featured Work
+
+**Backend Engineering & Architecture**
+  
+Building a deeper understanding of how production systems work, from HTTP requests and application services to databases, caching, messaging, and deployment.
+
+**Agentic AI & Automation**
+
+Exploring practical AI agents, tool integration, workflow orchestration, and the engineering principles needed to make AI-powered systems reliable.
+
+**Technical Writing**
+
+I write about software architecture, backend ecosystems, security, and emerging AI engineering patterns.
+
+Explore my projects and technical experiments in my repositories below.
+
+### Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp" alt="Python, Java, JavaScript, TypeScript, C++" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" alt="Spring Boot, Node.js, Express, FastAPI" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" alt="PostgreSQL, MongoDB, MySQL, SQLite" />
+</p>
+
+**AI, Automation & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,bash" alt="Docker, AWS, Git, GitHub, Linux, Bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Agentic%20AI-6B46C1?style=flat-square" alt="LLMs and Agentic AI" />
+  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Make-2563EB?style=flat-square" alt="Automation with n8n and Make" />
+  <img src="https://img.shields.io/badge/Integration-REST%20APIs-0F766E?style=flat-square" alt="REST API integration" />
+</p>
+
+### GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wawerugeek&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawerugeek&layout=compact&hide_border=true" alt="Most used programming languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building systems. Exploring intelligence. Sharing what I learn.</i>
+</p>
